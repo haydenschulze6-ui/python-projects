@@ -355,3 +355,11 @@ libva info: va_openDriver() returns 0
 [269451:25:1015/220232.824974:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
 [269451:25:1015/220337.677863:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
 [269451:25:1015/220337.699193:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[219990:219990:1015/220517.319376:ERROR:components/dbus/xdg/request.cc:169] Request cancelled by user.
+[269451:25:1015/220537.950864:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220538.021789:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220538.050295:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220538.083631:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220548.289042:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220548.309383:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[220041:220041:1015/221034.696799:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:260] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
