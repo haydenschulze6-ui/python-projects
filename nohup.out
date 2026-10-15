@@ -1,0 +1,357 @@
+22:26:23.366 [MainThread] INFO    thonny: Thonny version: 4.1.7
+22:26:23.366 [MainThread] INFO    thonny: cwd: /home/stevie/python-projects
+22:26:23.366 [MainThread] INFO    thonny: original argv: ['/usr/bin/python3', '/usr/bin/thonny']
+22:26:23.367 [MainThread] INFO    thonny: sys.executable: /usr/bin/python3
+22:26:23.367 [MainThread] INFO    thonny: sys.argv: ['/usr/bin/thonny']
+22:26:23.367 [MainThread] INFO    thonny: sys.path: ['/usr/bin', '/usr/lib/python313.zip', '/usr/lib/python3.13', '/usr/lib/python3.13/lib-dynload', '/home/stevie/.local/lib/python3.13/site-packages', '/home/stevie/.local/lib/python3.13/site-packages/pyGnuplot-0.16-py3.13.egg', '/home/stevie/.local/lib/python3.13/site-packages/pyGnuplot-1.1-py3.13.egg', '/home/stevie/.local/lib/python3.13/site-packages/pManager-0.6.14-py3.13.egg', '/usr/local/lib/python3.13/dist-packages', '/usr/lib/python3/dist-packages']
+22:26:23.367 [MainThread] INFO    thonny: sys.flags: sys.flags(debug=0, inspect=0, interactive=0, optimize=0, dont_write_bytecode=0, no_user_site=0, no_site=0, ignore_environment=0, verbose=0, bytes_warning=0, quiet=0, hash_randomization=1, isolated=0, dev_mode=False, utf8_mode=0, warn_default_encoding=0, safe_path=False, int_max_str_digits=4300)
+22:26:23.460 [MainThread] INFO    thonny.workbench: Starting Workbench
+22:26:23.584 [MainThread] INFO    thonny.workbench: Creating runner
+22:26:23.589 [MainThread] INFO    thonny.workbench: Start loading plugins
+22:26:23.681 [MainThread] INFO    thonny.workbench: Done loading plugins
+22:26:24.156 [MainThread] INFO    thonny.workbench: Opening views
+22:26:24.375 [MainThread] INFO    thonny.plugins.cpython_frontend.cp_front: Creating LocalCPythonProxy
+22:26:24.376 [MainThread] INFO    thonny.running: Starting the backend: ['/usr/bin/python3', '-u', '-B', '/usr/lib/python3/dist-packages/thonny/plugins/cpython_backend/cp_launcher.py', '/home/stevie/python-projects', "{'run.warn_module_shadowing': True}"] /home/stevie/python-projects
+22:26:44.900 [MainThread] INFO    thonny: TIME/MODS 21.535 Before Run (+163 modules)
+22:26:44.900 [MainThread] INFO    thonny: NEW MODS ['_blake2', '_datetime', '_hashlib', '_heapq', '_locale', '_posixsubprocess', '_queue', '_socket', '_ssl', '_tkinter', 'array', 'base64', 'configparser', 'datetime', 'email._encoded_words', 'email._parseaddr', 'email._policybase', 'email.base64mime', 'email.charset', 'email.encoders', 'email.errors', 'email.feedparser', 'email.header', 'email.iterators', 'email.message', 'email.parser', 'email.quoprimime', 'email.utils', 'encodings.ascii', 'faulthandler', 'fcntl', 'gettext', 'hashlib', 'heapq', 'http', 'http.client', 'ipaddress', 'locale', 'pkgutil', 'platform', 'queue', 'quopri', 'runpy', 'select', 'selectors', 'shlex', 'signal', 'socket', 'ssl', 'subprocess', 'thonny.assistance', 'thonny.ast_utils', 'thonny.backend', 'thonny.base_file_browser', 'thonny.codeview', 'thonny.config', 'thonny.config_ui', 'thonny.editor_helpers', 'thonny.editors', 'thonny.languages', 'thonny.memory', 'thonny.misc_utils', 'thonny.plugins', 'thonny.plugins.about', 'thonny.plugins.assistant_config_page', 'thonny.plugins.ast_view', 'thonny.plugins.autocomplete', 'thonny.plugins.backend', 'thonny.plugins.backend_config_page', 'thonny.plugins.base_syntax_themes', 'thonny.plugins.base_ui_themes', 'thonny.plugins.birdseye_frontend', 'thonny.plugins.calltip', 'thonny.plugins.cells', 'thonny.plugins.circuitpython', 'thonny.plugins.circuitpython.cirpy_front', 'thonny.plugins.clean_ui_themes', 'thonny.plugins.coloring', 'thonny.plugins.commenting_indenting', 'thonny.plugins.common_editing_commands', 'thonny.plugins.cpython_backend', 'thonny.plugins.cpython_backend.cp_back', 'thonny.plugins.cpython_frontend', 'thonny.plugins.cpython_frontend.cp_front', 'thonny.plugins.cpython_ssh', 'thonny.plugins.cpython_ssh.cps_front', 'thonny.plugins.debugger', 'thonny.plugins.dock_user_windows_frontend', 'thonny.plugins.editor_config_page', 'thonny.plugins.esp', 'thonny.plugins.ev3', 'thonny.plugins.event_logging', 'thonny.plugins.event_view', 'thonny.plugins.files', 'thonny.plugins.find_replace', 'thonny.plugins.general_config_page', 'thonny.plugins.goto_definition', 'thonny.plugins.heap', 'thonny.plugins.help', 'thonny.plugins.highlight_names', 'thonny.plugins.locals_marker', 'thonny.plugins.microbit', 'thonny.plugins.micropython', 'thonny.plugins.micropython.base_flashing_dialog', 'thonny.plugins.micropython.esptool_dialog', 'thonny.plugins.micropython.mp_common', 'thonny.plugins.micropython.mp_front', 'thonny.plugins.micropython.uf2dialog', 'thonny.plugins.misc_analyzers', 'thonny.plugins.mypy', 'thonny.plugins.notes', 'thonny.plugins.object_inspector', 'thonny.plugins.outline', 'thonny.plugins.paren_matcher', 'thonny.plugins.pgzero_frontend', 'thonny.plugins.pi', 'thonny.plugins.pip_gui', 'thonny.plugins.prime_inventor', 'thonny.plugins.printing', 'thonny.plugins.pylint', 'thonny.plugins.pylint.messages', 'thonny.plugins.pythontutor', 'thonny.plugins.remove_old_data_dir', 'thonny.plugins.replayer', 'thonny.plugins.rp2040', 'thonny.plugins.rpi_pico', 'thonny.plugins.run_debug_config_page', 'thonny.plugins.shell_config_page', 'thonny.plugins.shell_macro', 'thonny.plugins.statement_boxes', 'thonny.plugins.stdlib_error_helpers', 'thonny.plugins.system_shell', 'thonny.plugins.terminal_config_page', 'thonny.plugins.theme_and_font_config_page', 'thonny.plugins.thonny_folders', 'thonny.plugins.todo_view', 'thonny.plugins.tomorrow_syntax_theme', 'thonny.plugins.variables', 'thonny.roughparse', 'thonny.rst_utils', 'thonny.running', 'thonny.shell', 'thonny.terminal', 'thonny.tktextext', 'thonny.token_utils', 'thonny.ui_utils', 'thonny.workbench', 'thonny.workdlg', 'tkinter', 'tkinter.commondialog', 'tkinter.constants', 'tkinter.dialog', 'tkinter.filedialog', 'tkinter.font', 'tkinter.messagebox', 'tkinter.simpledialog', 'tkinter.ttk', 'urllib', 'urllib.error', 'urllib.parse', 'urllib.request', 'urllib.response', 'webbrowser']
+22:26:44.903 [MainThread] INFO    thonny.running: Killing backend process
+22:26:44.903 [MainThread] INFO    thonny.running: Starting the backend: ['/usr/bin/python3', '-u', '-B', '/usr/lib/python3/dist-packages/thonny/plugins/cpython_backend/cp_launcher.py', '/home/stevie/python-projects', "{'run.warn_module_shadowing': True}"] /home/stevie/python-projects
+22:26:44.908 [Thread-2 (_listen_stdout)] INFO    thonny.running: Reader got EOF
+22:26:44.983 [MainThread] INFO    thonny.running: Prepared clean state for executing ToplevelCommand(args=['project1.py'], args_str='project1.py', cmd_line='%Run project1.py', tty_mode=True, source=None, name='Run', argv=[], id='cmd_2', local_cwd='/home/stevie/python-projects')
+22:26:44.985 [MainThread] INFO    thonny: TIME/MODS 0.085 After Run 
+22:27:16.576 [MainThread] INFO    thonny.running: Killing backend process
+22:27:16.576 [MainThread] INFO    thonny.shell: BaseShellText._on_backend_terminated
+22:27:16.599 [Thread-4 (_listen_stdout)] INFO    thonny.running: Reader got EOF
+[Parent 2198, Main Thread] WARNING: /home/stevie/.local/share/applications/defaults.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.: 'glib warning', file toolkit/xre/nsSigHandlers.cpp:200
+
+(firefox-esr:2198): GLib-GIO-WARNING **: 19:05:25.731: /home/stevie/.local/share/applications/defaults.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+libva info: VA-API version 1.22.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_22
+libva info: va_openDriver() returns 0
+[Child 200585, MediaDecoderStateMachine #1] WARNING: Decoder=7fa0ece4ff00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file dom/media/MediaDecoderStateMachine.cpp:340
+[Child 200585, MediaDecoderStateMachine #1] WARNING: Decoder=7fa0ece4ff00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer mozilla::MP4Metadata::Metadata(ByteStream *): Cannot parse metadata: file dom/media/MediaDecoderStateMachineBase.cpp:168
+20:41:57.365 [MainThread] INFO    thonny: Thonny version: 4.1.7
+20:41:57.369 [MainThread] INFO    thonny: cwd: /home/stevie/python-projects
+20:41:57.369 [MainThread] INFO    thonny: original argv: ['/usr/bin/python3', '/usr/bin/thonny']
+20:41:57.369 [MainThread] INFO    thonny: sys.executable: /usr/bin/python3
+20:41:57.369 [MainThread] INFO    thonny: sys.argv: ['/usr/bin/thonny']
+20:41:57.370 [MainThread] INFO    thonny: sys.path: ['/usr/bin', '/usr/lib/python313.zip', '/usr/lib/python3.13', '/usr/lib/python3.13/lib-dynload', '/home/stevie/.local/lib/python3.13/site-packages', '/home/stevie/.local/lib/python3.13/site-packages/pyGnuplot-0.16-py3.13.egg', '/home/stevie/.local/lib/python3.13/site-packages/pyGnuplot-1.1-py3.13.egg', '/home/stevie/.local/lib/python3.13/site-packages/pManager-0.6.14-py3.13.egg', '/usr/local/lib/python3.13/dist-packages', '/usr/lib/python3/dist-packages']
+20:41:57.370 [MainThread] INFO    thonny: sys.flags: sys.flags(debug=0, inspect=0, interactive=0, optimize=0, dont_write_bytecode=0, no_user_site=0, no_site=0, ignore_environment=0, verbose=0, bytes_warning=0, quiet=0, hash_randomization=1, isolated=0, dev_mode=False, utf8_mode=0, warn_default_encoding=0, safe_path=False, int_max_str_digits=4300)
+20:41:57.469 [MainThread] INFO    thonny.workbench: Starting Workbench
+20:41:57.642 [MainThread] INFO    thonny.workbench: Creating runner
+20:41:57.647 [MainThread] INFO    thonny.workbench: Start loading plugins
+20:41:57.776 [MainThread] INFO    thonny.workbench: Done loading plugins
+20:41:58.496 [MainThread] INFO    thonny.workbench: Opening views
+20:41:58.755 [MainThread] INFO    thonny.plugins.cpython_frontend.cp_front: Creating LocalCPythonProxy
+20:41:58.755 [MainThread] INFO    thonny.running: Starting the backend: ['/usr/bin/python3', '-u', '-B', '/usr/lib/python3/dist-packages/thonny/plugins/cpython_backend/cp_launcher.py', '/home/stevie/python-projects', "{'run.warn_module_shadowing': True}"] /home/stevie/python-projects
+[219990:220022:1015/204207.731930:ERROR:crypto/nss_util.cc:377] After loading Root Certs, loaded==false: NSS error code: -8018
+[219990:220026:1015/204213.395154:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[219990:220026:1015/204239.029407:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[219990:220026:1015/204320.507763:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: QUOTA_EXCEEDED
+20:53:11.891 [MainThread] WARNING thonny.ui_utils: Zenity returned code 1 and stderr ''
+20:53:11.891 [MainThread] INFO    thonny.ui_utils: Restoring focus to .
+20:53:11.893 [MainThread] INFO    thonny.editors: Save dialog returned None with typevariable ''
+[269451:25:1015/210314.075237:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[220046:220057:1015/210314.095205:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/210314.100175:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/210314.100547:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/210314.101073:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/210314.101345:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/210314.101533:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/210314.101745:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/210314.101918:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/210314.101958:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/210314.101988:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[269451:25:1015/210314.128889:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/210314.150128:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/210314.292897:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/210314.317787:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/210314.341152:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/210357.569985:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/210357.584546:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/210430.308360:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/210430.324018:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/210430.372961:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/210430.394782:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/210500.049232:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/210500.061012:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/210500.071591:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/210500.085061:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/210533.400382:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/210533.415443:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/210533.445762:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/210533.479063:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211125.627310:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211125.700537:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211140.490673:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211140.507795:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211140.554866:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211140.581613:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211149.759438:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211149.818952:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211149.891372:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211149.919375:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211203.487620:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211203.504352:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211203.546653:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211203.561881:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211325.993293:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211326.005196:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[220046:220057:1015/211326.112434:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211326.112495:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211326.112536:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211326.112569:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211326.112598:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211326.112628:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211326.112660:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211326.112688:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[269451:25:1015/211402.424829:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211402.442922:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211402.454500:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211402.467928:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211402.802862:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211402.840844:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211426.049207:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211426.062731:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[220046:220057:1015/211426.134662:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211426.134716:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211426.134735:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211426.134749:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211426.134764:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211426.134778:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211426.134815:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211426.134847:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+21:15:46.854 [MainThread] WARNING thonny.ui_utils: Zenity returned code 1 and stderr ''
+21:15:46.896 [MainThread] INFO    thonny.ui_utils: Restoring focus to .
+21:16:21.391 [MainThread] INFO    thonny.ui_utils: Restoring focus to .
+21:16:21.392 [MainThread] INFO    thonny.editors: Save dialog returned '/home/stevie/python-projects/py-game2/space_invader_project1.py' with typevariable ''
+[269451:25:1015/211827.018500:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211827.048062:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:26:1015/211839.160635:ERROR:third_party/webrtc/p2p/base/port.cc:520] Port[3f08280:0:1:0:host:Net[wlp3s0:192.168.178.x/24:Wifi:id=1]]: Received STUN BINDING error response: class=4 number=1 reason='' from 116.202.213.x:22414
+[220046:220057:1015/211842.081797:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211842.081868:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211842.081895:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211842.081920:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211842.081944:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211842.081969:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211842.081994:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/211842.082019:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[269451:26:1015/211904.379407:ERROR:third_party/webrtc/p2p/base/port.cc:520] Port[3f08280:0:1:0:host:Net[wlp3s0:192.168.178.x/24:Wifi:id=1]]: Received STUN BINDING error response: class=4 number=1 reason='' from 116.202.213.x:22414
+[269451:26:1015/211904.379829:ERROR:third_party/webrtc/p2p/base/port.cc:520] Port[3f08280:0:1:0:host:Net[wlp3s0:192.168.178.x/24:Wifi:id=1]]: Received STUN BINDING error response: class=4 number=1 reason='' from 116.202.213.x:22414
+[269451:25:1015/211943.216456:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211943.233628:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211943.277049:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/211943.291031:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212202.561528:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212202.575773:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212208.939401:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212208.955121:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212446.849159:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212446.866111:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212630.809229:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212630.823705:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212712.560360:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212712.577338:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212712.593947:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212712.611234:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212812.876208:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212812.893194:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212812.935971:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212812.989874:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212813.485153:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212813.523104:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212813.557597:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212813.593215:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212814.889440:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212814.906078:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212814.952672:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212814.982734:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212957.751544:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212957.771235:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212957.786226:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212957.802556:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212957.985902:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/212958.011243:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213021.783425:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213021.799071:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213044.936296:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213044.950778:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[220046:220057:1015/213044.992202:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/213044.992256:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[269451:25:1015/213141.737549:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213141.765422:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213141.844764:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213141.885055:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213142.755810:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213142.778510:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213142.810421:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213142.847980:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213143.371083:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213143.395163:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213143.446340:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213143.463061:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213147.462356:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213147.481153:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213147.540240:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213147.556274:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213251.600003:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213251.619394:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213251.633598:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213251.648195:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213343.609535:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213343.626718:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213343.654902:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213343.668834:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213344.226496:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213344.241569:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213344.270704:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213344.303795:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213344.971523:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213344.987537:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213345.027139:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213345.042917:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213349.290527:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213349.303992:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213356.168088:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213356.181991:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213502.768747:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213502.783892:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213641.716243:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213641.731109:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213641.745955:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213641.760540:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213653.574949:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213653.593938:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213653.628948:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213653.673870:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213654.081221:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213654.099180:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213654.146744:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/213654.184841:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214050.735908:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214050.756038:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214050.768752:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214050.788135:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214103.890946:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214103.908480:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214103.936587:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214103.971021:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214104.593556:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214104.611687:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214104.649452:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214104.671582:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214240.350205:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214240.366123:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214240.551610:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214240.566415:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214240.576213:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214240.590922:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214259.393631:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214259.411990:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214259.439940:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214259.469072:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214259.983014:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214259.998390:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214300.035249:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214300.048682:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214346.827373:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214346.845010:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214346.856936:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214346.874728:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214401.143167:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214401.162700:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214401.218774:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214401.277714:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214401.516594:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214401.532742:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214401.568266:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214401.582255:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214407.002169:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214407.035462:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214407.212654:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214407.229681:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214407.240787:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214407.257101:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214417.863388:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214417.884197:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214417.916190:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214417.947305:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214418.249414:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214418.270055:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214418.316655:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214418.341060:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214442.368964:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214442.389066:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214442.399697:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214442.415053:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214507.413989:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214507.435499:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214507.476371:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214507.493582:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214508.385550:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214508.401796:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214508.431103:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214508.455881:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214509.127208:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214509.143545:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214509.204315:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214509.225572:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214956.095790:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/214956.110160:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215554.802803:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215554.834485:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215554.987651:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215555.003226:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215555.014091:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215555.029353:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215701.867439:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215701.886143:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215701.918101:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215701.950172:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215739.491798:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215739.518626:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215739.571918:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215739.586584:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215945.506125:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215945.525266:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215945.563599:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215945.580057:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215946.014325:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215946.027854:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[220046:220057:1015/215946.119378:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/215946.119434:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/215946.119453:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/215946.119481:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/215946.119496:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/215946.119514:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/215946.119527:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[220046:220057:1015/215946.119550:ERROR:services/network/p2p/socket_manager.cc:145] Failed to resolve address for turn-74cadada.turn.svc.whereby.com., errorcode: -105
+[269451:25:1015/215947.683628:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/215947.708720:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220000.116931:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220000.130799:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220000.941842:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220000.955803:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220014.185528:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220014.199990:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220225.694309:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220225.748258:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220225.892222:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220225.909921:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220225.923159:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220225.939458:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220231.606185:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220231.626740:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220231.654250:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220231.675207:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220232.262077:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220232.278204:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220232.309310:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220232.342519:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220232.745084:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220232.763514:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220232.799881:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220232.824974:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220337.677863:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[269451:25:1015/220337.699193:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
