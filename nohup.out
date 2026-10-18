@@ -363,3 +363,15 @@ libva info: va_openDriver() returns 0
 [269451:25:1015/220548.289042:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
 [269451:25:1015/220548.309383:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
 [220041:220041:1015/221034.696799:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:260] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+22:30:36.138 [MainThread] INFO    thonny.running: Killing backend process
+22:30:36.165 [MainThread] INFO    thonny.shell: BaseShellText._on_backend_terminated
+22:30:36.169 [Thread-2 (_listen_stdout)] INFO    thonny.running: Reader got EOF
+[220041:220041:1015/223106.828788:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:260] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[220041:220041:1015/223106.830959:ERROR:gpu/command_buffer/service/shared_image/shared_image_manager.cc:260] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[Parent 578623, Main Thread] WARNING: /home/stevie/.local/share/applications/defaults.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.: 'glib warning', file toolkit/xre/nsSigHandlers.cpp:200
+
+(firefox-esr:578623): GLib-GIO-WARNING **: 22:31:27.056: /home/stevie/.local/share/applications/defaults.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+libva info: VA-API version 1.22.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_22
+libva info: va_openDriver() returns 0
