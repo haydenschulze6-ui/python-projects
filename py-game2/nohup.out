@@ -228,3 +228,503 @@
 [74384:22:1018/214022.665087:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
 [74384:22:1018/214022.696833:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
 [74384:22:1018/214022.732280:ERROR:third_party/webrtc/pc/sdp_offer_answer.cc:5783] Warning: Inconsistent congestion control feedback types, ignoring all.
+[24005:24041:1018/225431.549456:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:484] ConnectionHandler failed with net error: -2
+[24005:24041:1018/230027.785937:ERROR:google_apis/gcm/engine/connection_factory_impl.cc:435] Failed to connect to MCS endpoint with error -7
+23:00:42.312 [MainThread] INFO    thonny.running: Killing backend process
+23:00:42.330 [MainThread] INFO    thonny.shell: BaseShellText._on_backend_terminated
+23:00:42.333 [Thread-4 (_listen_stdout)] INFO    thonny.running: Reader got EOF
+[Parent 480084, Main Thread] WARNING: /home/stevie/.local/share/applications/defaults.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.: 'glib warning', file toolkit/xre/nsSigHandlers.cpp:200
+
+(firefox-esr:480084): GLib-GIO-WARNING **: 23:00:57.589: /home/stevie/.local/share/applications/defaults.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+libva info: VA-API version 1.22.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_22
+libva info: va_openDriver() returns 0
+[Parent 572361, Main Thread] WARNING: /home/stevie/.local/share/applications/defaults.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.: 'glib warning', file toolkit/xre/nsSigHandlers.cpp:200
+
+(firefox-esr:572361): GLib-GIO-WARNING **: 12:04:02.533: /home/stevie/.local/share/applications/defaults.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Picked up _JAVA_OPTIONS: -Dawt.useSystemAAFontSettings=on -Dswing.aatext=true
+[Mon Oct 19 12:07:03 CEST 2026][INFO][main][de.willuhn.jameica.system.StartupParams.<init>] starting in STANDALONE mode
+[Mon Oct 19 12:07:03 CEST 2026][INFO][main][de.willuhn.jameica.system.StartupParams.<init>] workdir: null
+[Mon Oct 19 12:07:03 CEST 2026][INFO][main][de.willuhn.jameica.system.Application.init] starting jameica...
+[Mon Oct 19 12:07:03 CEST 2026][INFO][main][de.willuhn.jameica.system.BootstrapSettings.getProperties] reading /home/stevie/.jameica.properties
+[Mon Oct 19 12:07:03 CEST 2026][INFO][main][de.willuhn.jameica.system.WorkdirChooser.getWorkDir] using last used workdir /home/stevie/.jameica
+[Mon Oct 19 12:07:03 CEST 2026][INFO][main][de.willuhn.jameica.system.Platform.getWorkdir] using workdir: /home/stevie/.jameica
+[Mon Oct 19 12:07:03 CEST 2026][INFO][main][de.willuhn.jameica.system.Config.findLocale] configured language: en
+[Mon Oct 19 12:07:03 CEST 2026][INFO][main][de.willuhn.jameica.system.Config.getLocale] checking resource bundle for language
+[Mon Oct 19 12:07:03 CEST 2026][INFO][main][de.willuhn.jameica.system.Config.getLocale] active language: en
+[Mon Oct 19 12:07:03 CEST 2026][INFO][main][de.willuhn.util.I18N.<init>] loading resource bundle lang/system_messages for locale en
+[Mon Oct 19 12:07:03 CEST 2026][INFO][main][de.willuhn.jameica.plugin.Manifest.<init>] Jameica 2.10.5
+[Mon Oct 19 12:07:03 CEST 2026][INFO][main][de.willuhn.jameica.plugin.Manifest.<init>]   Directory  : /usr/share/jameica
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  starting jameica ...
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.security.JameicaSecurityManager.<init>] protecting program dir /usr/share/jameica/
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.SecurityManagerService.init] detected java version: 21
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.SecurityManagerService.init] running in java version 18 or higher, security manager no longer available
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.LockService.init] creating lockfile /home/stevie/.jameica/jameica.lock
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.LockService.init] /home/stevie/.jameica/jameica.lock successfully locked
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.LogService.init] using log level INFO [100]
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.LogService.init] log file /home/stevie/.jameica/jameica.log
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.LogService.init] log size 1048576 bytes
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.SysPropertyService.init] setting sys property (from presets): java.net.preferIPv4Stack: true
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.SysinfoService.init] starting Jameica Version 2.10.5
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.SysinfoService.init]   Built-Date : 20250220
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.SysinfoService.init]   Buildnumber: 444
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.SysinfoService.init]   max. memory: 512mb
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.SysinfoService.init]   sys charset: UTF-8
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.SysinfoService.init] command line parameters
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.SysinfoService.init] os.arch          : amd64
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.SysinfoService.init] os.name          : Linux
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.SysinfoService.init] os.version       : 6.12.111+deb13-amd64
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.SysinfoService.init] java.version     : 21.0.12.1
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.SysinfoService.init] java.vendor      : Debian
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.SysinfoService.init] java.runtime.name: OpenJDK Runtime Environment
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.SysinfoService.init] java.vm.name     : OpenJDK 64-Bit Server VM
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.SysinfoService.init] user.name        : stevie
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.SysinfoService.init] user.home        : /home/stevie
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.SysinfoService.init] file.encoding    : UTF-8
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.messaging.NamedConcurrentQueue.init] creating thread pool
+[Mon Oct 19 12:07:05 CEST 2026][INFO][main][de.willuhn.jameica.services.HostnameVerifierService.init] applying jameica's hostname verifier
+[Mon Oct 19 12:07:06 CEST 2026][INFO][main][de.willuhn.jameica.security.SSLFactory.<clinit>] applying security provider BouncyCastle Security Provider v1.80
+[Mon Oct 19 12:07:06 CEST 2026][INFO][main][de.willuhn.jameica.security.SSLFactory.init] init encryption system
+[Mon Oct 19 12:07:06 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  init encryption system ...
+[Mon Oct 19 12:07:06 CEST 2026][INFO][main][de.willuhn.jameica.security.SSLFactory.getKeyStore] init keystore /home/stevie/.jameica/cfg/jameica.keystore
+[Mon Oct 19 12:07:06 CEST 2026][INFO][main][de.willuhn.jameica.security.SSLFactory.getKeyStore] trying to unlock keystore
+[Mon Oct 19 12:07:06 CEST 2026][INFO][main][de.willuhn.jameica.gui.util.Font.<clinit>] system font: 1|Cantarell|10.0|0|GTK|1|
+[Mon Oct 19 12:07:06 CEST 2026][INFO][main][de.willuhn.jameica.gui.util.SWTUtil.getDeviceZoom] application zoom: 100, swt zoom: 100
+[Mon Oct 19 12:07:10 CEST 2026][WARN][main][de.willuhn.jameica.system.ApplicationCallbackSWT$PWD.checkPassword] master password wrong, remaining retries: 2
+[Mon Oct 19 12:07:17 CEST 2026][INFO][main][de.willuhn.jameica.security.SSLFactory.getKeyStore] keystore loaded successfully
+[Mon Oct 19 12:07:17 CEST 2026][INFO][main][de.willuhn.jameica.security.SSLFactory.importSystemCertificate] jameica.update certificate correctly installed
+[Mon Oct 19 12:07:17 CEST 2026][INFO][main][de.willuhn.jameica.security.SSLFactory.importSystemCertificate] jameica.ca certificate correctly installed
+[Mon Oct 19 12:07:17 CEST 2026][INFO][main][de.willuhn.jameica.security.SSLFactory.importSystemCertificate] jameica.update.ca1 certificate correctly installed
+[Mon Oct 19 12:07:17 CEST 2026][INFO][main][de.willuhn.jameica.services.ClassService.prepareClasses] inspecting /usr/share/java/jameica.jar
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.services.DeployService.init] searching for uninstallable plugins
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.security.JameicaSecurityManager.doPrivileged] [privcount: 0] starting privileged action: writable check for /usr/share/jameica/plugins
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.security.JameicaSecurityManager.doPrivileged] [privcount: 0] finished privileged action: writable check for /usr/share/jameica/plugins
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.services.DeployService.cleanup]   /home/stevie/.jameica/plugins
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.services.DeployService.init] searching for updatable plugins
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.services.SSLSocketFactoryService.init] applying jameica's ssl socket factory
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.security.SSLFactory.getSSLContext] init ssl context
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.security.SSLFactory.getSSLContext] init key manager [using algorithm: SunX509]
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.security.SSLFactory.getSSLContext] init Jameica trust manager
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.security.JameicaTrustManager.<init>] trusting java trustmanager
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.security.JameicaTrustManager.getSystemTrustManager] loading trustmanager SunX509
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.security.SSLFactory.getSSLContext] set jameica ssl context as system default
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  init plugins ...
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginLoader.init] init plugins
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginSourceSystem.find] searching for SYSTEM plugins in /usr/share/jameica/plugins
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginSourceSystem.find]   adding /usr/share/jameica/plugins/hibiscus
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.Manifest.<init>] hibiscus 2.10.24
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.Manifest.<init>]   Directory  : /usr/share/jameica/plugins/hibiscus
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.Manifest.<init>]   Buildnumber: 361
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.Manifest.<init>]   Built-Date : 20250220
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginSourceConfig.find] searching for CONFIG plugins
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginSourceUser.find] searching for USER plugins in /home/stevie/.jameica/plugins
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginSourceUser.find]   adding /home/stevie/.jameica/plugins/hibiscus
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginSourceUser.find]   adding /home/stevie/.jameica/plugins/hibiscus.paypal
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.Manifest.<init>] hibiscus 2.10.15
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.Manifest.<init>]   Directory  : /home/stevie/.jameica/plugins/hibiscus
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.Manifest.<init>]   Buildnumber: 379
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.Manifest.<init>]   Built-Date : 20231103
+[Mon Oct 19 12:07:18 CEST 2026][WARN][main][de.willuhn.jameica.plugin.PluginLoader.init] found second plugin "hibiscus" in /home/stevie/.jameica/plugins/hibiscus (already installed in /usr/share/jameica/plugins/hibiscus) ignoring the older one
+[Mon Oct 19 12:07:18 CEST 2026][WARN][main][de.willuhn.jameica.plugin.PluginLoader.init] /usr/share/jameica/plugins/hibiscus (2.10.24) is newer than /home/stevie/.jameica/plugins/hibiscus (2.10.15), ignoring the older one
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.Manifest.<init>] hibiscus.paypal 1.0.0-nightly
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.Manifest.<init>]   Directory  : /home/stevie/.jameica/plugins/hibiscus.paypal
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.Manifest.<init>]   Buildnumber: 1
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.Manifest.<init>]   Built-Date : 20240901
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginLoader.init] sort plugins by dependency
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginLoader.init]   hibiscus
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginLoader.init]   hibiscus.paypal
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginLoader.loadPlugin] loading plugin hibiscus [Version: 2.10.24]
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.services.ClassService.prepareClasses] checking directory /usr/share/jameica/plugins/hibiscus
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  checking directory /usr/share/jameica/plugins/hibiscus ...
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.services.ClassService.prepareClasses] using global classloader for plugin hibiscus
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.services.ClassService.prepareClasses] loader.jameica: loaded jar /usr/share/jameica/plugins/hibiscus/hibiscus.jar
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.services.ClassService.prepareClasses] loader.jameica: loaded jar /usr/share/jameica/plugins/hibiscus/lib/guava.jar
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.services.ClassService.prepareClasses] loader.jameica: loaded jar /usr/share/jameica/plugins/hibiscus/lib/hbci4j-core.jar
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.services.ClassService.prepareClasses] loader.jameica: loaded jar /usr/share/jameica/plugins/hibiscus/lib/itext5.jar
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.services.ClassService.prepareClasses] loader.jameica: loaded jar /usr/share/jameica/plugins/hibiscus/lib/obantoo-bin.jar
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.services.ClassService.prepareClasses] loader.jameica: loaded jar /usr/share/jameica/plugins/hibiscus/lib/org.eclipse.swtchart.extensions.jar
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.services.ClassService.prepareClasses] loader.jameica: loaded jar /usr/share/jameica/plugins/hibiscus/lib/org.eclipse.swtchart.jar
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.services.ClassService.prepareClasses] loader.jameica: loaded jar /usr/share/jameica/plugins/hibiscus/lib/postgresql-jdbc3.jar
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.services.ClassService.prepareClasses] loader.jameica: loaded jar /usr/share/jameica/plugins/hibiscus/lib/qrcodegen.jar
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.services.ClassService.prepareClasses] loader.jameica: loaded jar /usr/share/jameica/plugins/hibiscus/lib/super-csv.jar
+[Mon Oct 19 12:07:18 CEST 2026][INFO][main][de.willuhn.jameica.services.ClassService.prepareClasses] inspecting /usr/share/jameica/plugins/hibiscus/hibiscus.jar
+[Mon Oct 19 12:07:19 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginLoader.loadPlugin] loading plugin hibiscus.paypal [Version: 1.0.0-nightly]
+[Mon Oct 19 12:07:19 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginLoader.loadPlugin]   resolving required dependency hibiscus: 2.10.10+
+[Mon Oct 19 12:07:19 CEST 2026][INFO][main][de.willuhn.jameica.services.ClassService.prepareClasses] checking directory /home/stevie/.jameica/plugins/hibiscus.paypal
+[Mon Oct 19 12:07:19 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  checking directory /home/stevie/.jameica/plugins/hibiscus.paypal ...
+[Mon Oct 19 12:07:19 CEST 2026][INFO][main][de.willuhn.jameica.services.ClassService.prepareClasses] using global classloader for plugin hibiscus.paypal
+[Mon Oct 19 12:07:19 CEST 2026][INFO][main][de.willuhn.jameica.services.ClassService.prepareClasses] loader.jameica: loaded jar /home/stevie/.jameica/plugins/hibiscus.paypal/hibiscus.paypal.jar
+[Mon Oct 19 12:07:19 CEST 2026][INFO][main][de.willuhn.jameica.services.ClassService.prepareClasses] inspecting /home/stevie/.jameica/plugins/hibiscus.paypal/hibiscus.paypal.jar
+[Mon Oct 19 12:07:19 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  init plugin hibiscus [Version: 2.10.24] ...
+[Mon Oct 19 12:07:19 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginLoader.initPlugin] init plugin hibiscus [Version: 2.10.24]
+[Mon Oct 19 12:07:19 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginLoader.initPlugin] trying to initialize de.willuhn.jameica.hbci.HBCI
+[Mon Oct 19 12:07:19 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  initializing plugin hibiscus ...
+[Mon Oct 19 12:07:19 CEST 2026][INFO][main][de.willuhn.jameica.hbci.HBCI.init] starting init process for hibiscus
+[Mon Oct 19 12:07:19 CEST 2026][INFO][main][de.willuhn.jameica.hbci.server.HBCIDBServiceImpl.<init>] loading database driver: de.willuhn.jameica.hbci.server.DBSupportH2Impl
+[Mon Oct 19 12:07:19 CEST 2026][INFO][main][de.willuhn.jameica.hbci.server.DBSupportH2Impl.<init>] switching dbservice to uppercase
+[Mon Oct 19 12:07:19 CEST 2026][INFO][main][de.willuhn.jameica.hbci.server.DBSupportH2Impl.<init>] h2 version: 1.4.199
+[Mon Oct 19 12:07:19 CEST 2026][INFO][main][de.willuhn.datasource.db.DBServiceImpl.start] starting db service
+[Mon Oct 19 12:07:19 CEST 2026][INFO][main][de.willuhn.jameica.hbci.server.HBCIDBServiceImpl.checkConsistency] determine current database version
+[Mon Oct 19 12:07:19 CEST 2026][INFO][main][de.willuhn.datasource.db.DBServiceImpl.createConnection] creating new connection
+[Mon Oct 19 12:07:19 CEST 2026][INFO][main][de.willuhn.util.Base64.<clinit>] using base64 encoder/decoder: JavaEncoder
+[Mon Oct 19 12:07:20 CEST 2026][INFO][main][de.willuhn.datasource.db.DBServiceImpl.getConnection] created new connection for <local>
+[Mon Oct 19 12:07:20 CEST 2026][INFO][main][de.willuhn.jameica.hbci.server.HBCIDBServiceImpl.checkConsistency] current database version: 71
+[Mon Oct 19 12:07:20 CEST 2026][INFO][main][de.willuhn.jameica.hbci.server.HBCIDBServiceImpl.checkConsistency] init update provider
+[Mon Oct 19 12:07:20 CEST 2026][INFO][main][de.willuhn.sql.version.Updater.execute] current version: 71
+[Mon Oct 19 12:07:20 CEST 2026][INFO][main][de.willuhn.sql.version.Updater.execute] searching for available updates
+[Mon Oct 19 12:07:20 CEST 2026][INFO][main][de.willuhn.sql.version.Updater.execute] no new updates found
+[Mon Oct 19 12:07:20 CEST 2026][INFO][main][de.willuhn.jameica.hbci.server.HBCIDBServiceImpl.checkConsistency] updates finished
+[Mon Oct 19 12:07:20 CEST 2026][INFO][main][de.willuhn.datasource.db.DBServiceImpl.stop] stopping db service
+[Mon Oct 19 12:07:20 CEST 2026][INFO][main][de.willuhn.datasource.db.DBServiceImpl.closeConnection] commit connection
+[Mon Oct 19 12:07:20 CEST 2026][INFO][main][de.willuhn.datasource.db.DBServiceImpl.closeConnection] closing connection
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.datasource.db.DBServiceImpl.closeConnection] connection closed
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.datasource.db.DBServiceImpl.stop] db service stopped [1 connection(s) closed]
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  hibiscus: init hbci4java subsystem ...
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.util.I18N.<init>] loading resource bundle lang/hibiscus_messages for locale en
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.hbci.HBCI.initHBCI] callback: de.willuhn.jameica.hbci.HBCICallbackSWT
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.hbci.HBCICallbackSWT.log] hbci4java 3.1.85
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  init services for plugin hibiscus [version: 2.10.24] ...
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  hibiscus: init service database ...
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  install service database ...
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.system.ServiceFactory.install] service: database
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.hbci.server.HBCIDBServiceImpl.<init>] loading database driver: de.willuhn.jameica.hbci.server.DBSupportH2Impl
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.hbci.server.DBSupportH2Impl.<init>] switching dbservice to uppercase
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.hbci.server.DBSupportH2Impl.<init>] h2 version: 1.4.199
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.system.ServiceFactory.install]   starting service
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  starting service database ...
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.datasource.db.DBServiceImpl.start] starting db service
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  hibiscus: init service addressbook ...
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  install service addressbook ...
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.system.ServiceFactory.install] service: addressbook
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.system.ServiceFactory.install]   starting service
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  starting service addressbook ...
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  hibiscus: init service synchronizescheduler ...
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  install service synchronizescheduler ...
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.system.ServiceFactory.install] service: synchronizescheduler
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.system.ServiceFactory.install]   service not startable
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginLoader.initPlugin] register plugin extensions
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  register plugin extensions ...
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginLoader.initPlugin]   register de.willuhn.jameica.hbci.gui.ext.ExportSaldoExtension
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginLoader.initPlugin]   register de.willuhn.jameica.hbci.gui.ext.ExportAddSumRowExtension
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginLoader.initPlugin] plugin hibiscus initialized successfully
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  init plugin hibiscus.paypal [Version: 1.0.0-nightly] ...
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginLoader.initPlugin] init plugin hibiscus.paypal [Version: 1.0.0-nightly]
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginLoader.initPlugin] trying to initialize de.willuhn.jameica.hbci.paypal.Plugin
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  initializing plugin hibiscus.paypal ...
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginLoader.initPlugin] register plugin extensions
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  register plugin extensions ...
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.util.I18N.<init>] loading resource bundle lang/hibiscus_paypal_messages for locale en
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.util.I18N.<init>] loading resource bundle lang/messages for locale en
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginResources.getI18N] plugin de.willuhn.jameica.hbci.paypal.Plugin does not support jameicas locale en
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginLoader.initPlugin]   register de.willuhn.jameica.hbci.paypal.gui.ext.KontoMenuExtension
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginLoader.initPlugin] plugin hibiscus.paypal initialized successfully
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.services.SearchService.init] looking for search providers
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.services.SearchService.init] loaded 10 search providers
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.services.UpdateService.init] update check interval: 7 days
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.services.UpdateService.init] starting updater thread
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.services.Init5.init] booted to init level 5
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$2.run] stopping splash screen
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.GUI.init] startup GUI
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.GUI.init] SWT version: 4962/gtk
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.GUI.init] Pixel density of screen (DPI): 96, configured: 96
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.GUI.init] display height smaller than 800px (1366x1366) - auto-activating netbook mode
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.GUI.init] adding menu
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.GUI.init] adding navigation
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.GUI.init] adding content view
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.GUI.init] adding status panel
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.GUI.position] window position: 0x25, size: 1358x718
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.gui.GUI.init] open shell
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.hbci.messaging.MarkOverdueMessageConsumer.init] init mark-overdue message consumer
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.messaging.AutoRegisterMessageConsumer.handleMessage] auto-registered message consumers: 16
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.messaging.NamedConcurrentQueue.registerMessageConsumer] delivering 1 queued messages to queue: jameica.boot
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.messaging.ManifestMessageConsumer.registerConsumers] message consumers from manifests: 24
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.messaging.ManifestMessageConsumer.sendMessages] messages from manifests: 0
+[Mon Oct 19 12:07:21 CEST 2026][INFO][attachmentservice-preload][de.willuhn.jameica.services.ArchiveService.init] checking jameica.messaging availability
+[Mon Oct 19 12:07:21 CEST 2026][INFO][attachmentservice-preload][de.willuhn.jameica.messaging.LookupService.lookup] performing multicast lookup for service name: tcp:de.willuhn.jameica.messaging.Plugin.connector.tcp
+[Mon Oct 19 12:07:21 CEST 2026][INFO][bookmark-preload][de.willuhn.jameica.store.BeanStore.load] created new [bean-container: Bookmark, encrypted: true]
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.jameica.hbci.messaging.MarkOverdueMessageConsumer.updateAll] update all unread counters
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.datasource.db.DBServiceImpl.createConnection] creating new connection
+[Mon Oct 19 12:07:21 CEST 2026][INFO][main][de.willuhn.datasource.db.DBServiceImpl.getConnection] created new connection for <local>
+[Mon Oct 19 12:07:22 CEST 2026][INFO][main][de.willuhn.jameica.hbci.messaging.NeueUmsaetze.load] load umsatz unread count
+[Mon Oct 19 12:07:22 CEST 2026][INFO][main][de.willuhn.jameica.hbci.messaging.NeueUmsaetze.load] umsatz unread count: 0
+
+(Jameica 2.10.5:573810): Gtk-WARNING **: 12:07:23.197: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node scrolledwindow, owner GtkScrolledWindow)
+
+(Jameica 2.10.5:573810): Gtk-WARNING **: 12:07:23.767: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node scrolledwindow, owner GtkScrolledWindow)
+[Mon Oct 19 12:07:23 CEST 2026][INFO][main][de.willuhn.jameica.hbci.synchronize.SynchronizeEngine.getBackends] loading synchronize backends
+[Mon Oct 19 12:07:23 CEST 2026][INFO][main][de.willuhn.jameica.hbci.synchronize.AbstractSynchronizeBackend.getJobProviders] loading synchronize providers for backend FinTS/HBCI
+[Mon Oct 19 12:07:23 CEST 2026][INFO][main][de.willuhn.jameica.hbci.synchronize.AbstractSynchronizeBackend.getJobProviders]   found 6 provider(s)
+[Mon Oct 19 12:07:26 CEST 2026][INFO][attachmentservice-preload][de.willuhn.jameica.messaging.LookupService.lookup] no server found for service name: tcp:de.willuhn.jameica.messaging.Plugin.connector.tcp
+[Mon Oct 19 12:07:26 CEST 2026][WARN][attachmentservice-preload][de.willuhn.jameica.services.ArchiveService.init] no archive server found
+[Mon Oct 19 12:07:26 CEST 2026][INFO][attachmentservice-preload][de.willuhn.jameica.services.AttachmentService.init] init attachment service
+[Mon Oct 19 12:07:26 CEST 2026][INFO][Thread-7][de.willuhn.jameica.messaging.LookupService.lookup] performing multicast lookup for service name: tcp:de.willuhn.jameica.messaging.Plugin.connector.tcp
+[Mon Oct 19 12:07:26 CEST 2026][INFO][attachmentservice-preload][de.willuhn.jameica.services.AttachmentService.init] searching available storage providers
+[Mon Oct 19 12:07:26 CEST 2026][INFO][attachmentservice-preload][de.willuhn.jameica.services.AttachmentService.init]   [jameica.local] Speicherung in lokalen Dateien: true
+[Mon Oct 19 12:07:26 CEST 2026][INFO][attachmentservice-preload][de.willuhn.jameica.services.AttachmentService.init]   [jameica.messaging] Jameica Messaging: false
+[Mon Oct 19 12:07:26 CEST 2026][INFO][attachmentservice-preload][de.willuhn.jameica.services.AttachmentService.init] found storage providers: 1
+[Mon Oct 19 12:07:31 CEST 2026][INFO][UpdateService][de.willuhn.jameica.services.UpdateService$Worker.run] check for updates needed?
+[Mon Oct 19 12:07:31 CEST 2026][INFO][UpdateService][de.willuhn.jameica.services.UpdateService$Worker.run] last check was on Thu Sep 24 20:50:24 CEST 2026
+[Mon Oct 19 12:07:31 CEST 2026][INFO][UpdateService][de.willuhn.jameica.services.UpdateService.findUpdateStates] checking for updates
+[Mon Oct 19 12:07:31 CEST 2026][INFO][UpdateService][de.willuhn.jameica.services.UpdateService.findUpdateStates] checking repository https://www.willuhn.de/products/jameica/updates
+[Mon Oct 19 12:07:31 CEST 2026][INFO][UpdateService][de.willuhn.jameica.update.Repository.<init>] open repository https://www.willuhn.de/products/jameica/updates
+[Mon Oct 19 12:07:31 CEST 2026][INFO][UpdateService][de.willuhn.jameica.services.TransportService.init] init transport service
+[Mon Oct 19 12:07:31 CEST 2026][INFO][UpdateService][de.willuhn.jameica.services.TransportService.init]   de.willuhn.jameica.transport.HttpTransport
+[Mon Oct 19 12:07:31 CEST 2026][INFO][UpdateService][de.willuhn.jameica.services.TransportService.init]     http
+[Mon Oct 19 12:07:31 CEST 2026][INFO][UpdateService][de.willuhn.jameica.services.TransportService.init]     https
+[Mon Oct 19 12:07:31 CEST 2026][INFO][UpdateService][de.willuhn.jameica.services.TransportService.init]     file
+[Mon Oct 19 12:07:31 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/repository.xml
+[Mon Oct 19 12:07:31 CEST 2026][INFO][Thread-7][de.willuhn.jameica.messaging.LookupService.lookup] no server found for service name: tcp:de.willuhn.jameica.messaging.Plugin.connector.tcp
+[Mon Oct 19 12:07:32 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/jameica.update-pem.crt
+[Mon Oct 19 12:07:32 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/hibiscus/current/plugin.xml
+[Mon Oct 19 12:07:32 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/hibiscus/previous/plugin.xml
+[Mon Oct 19 12:07:32 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/hibiscus/nightly/plugin.xml
+[Mon Oct 19 12:07:32 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/hibiscus.paypal/plugin.xml
+[Mon Oct 19 12:07:32 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/jameica.update-pem.crt
+[Mon Oct 19 12:07:32 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/syntax/current/plugin.xml
+[Mon Oct 19 12:07:32 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/syntax/previous/plugin.xml
+[Mon Oct 19 12:07:32 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/syntax/nightly/plugin.xml
+[Mon Oct 19 12:07:32 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/jameica.update-pem.crt
+[Mon Oct 19 12:07:32 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/jameica.ical/plugin.xml
+[Mon Oct 19 12:07:32 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/jameica.ca/plugin.xml
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.services.UpdateService.findUpdateStates] checking repository https://www.willuhn.de/products/jameica/updates/extensions
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.update.Repository.<init>] open repository https://www.willuhn.de/products/jameica/updates/extensions
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/extensions/repository.xml
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/jameica.update-pem.crt
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/hibiscus.xmlrpc/plugin.xml
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/hibiscus.soap/plugin.xml
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/jameica.update-pem.crt
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/jameica.webadmin/plugin.xml
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/jameica.xmlrpc/plugin.xml
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/jameica.soap/plugin.xml
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/jameica.sensors/plugin.xml
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/jameica.messaging/plugin.xml
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.willuhn.de/products/jameica/updates/jameica.redmine/plugin.xml
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.services.UpdateService.findUpdateStates] checking repository http://www.jverein.de/updates/
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.update.Repository.<init>] open repository http://www.jverein.de/updates/
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading http://www.jverein.de/updates/repository.xml
+[Mon Oct 19 12:07:33 CEST 2026][WARN][UpdateService][de.willuhn.jameica.update.PluginGroup.initCertificate] no certificate given
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading http://www.jverein.de/updates/2.6/plugin.xml
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading http://www.jverein.de/updates/2.8/plugin.xml
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.services.UpdateService.findUpdateStates] checking repository https://scripting-updates.derrichter.de/
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.update.Repository.<init>] open repository https://scripting-updates.derrichter.de/
+[Mon Oct 19 12:07:33 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://scripting-updates.derrichter.de/repository.xml
+[Mon Oct 19 12:07:34 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://scripting-updates.derrichter.de/hibiscus-mashup.derrichter.de.crt
+[Mon Oct 19 12:07:34 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://scripting-updates.derrichter.de/updates/hibiscus.mashup/plugin.xml
+[Mon Oct 19 12:07:34 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://scripting-updates.derrichter.de/updates/finance.websync/plugin.xml
+[Mon Oct 19 12:07:34 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://scripting-updates.derrichter.de/hibiscus-mashup.derrichter.de.crt
+[Mon Oct 19 12:07:34 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://scripting-updates.derrichter.de/updates/htmlunit/plugin.xml
+[Mon Oct 19 12:07:34 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://scripting-updates.derrichter.de/updates/pdfbox/plugin.xml
+[Mon Oct 19 12:07:34 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://scripting-updates.derrichter.de/updates/poi/plugin.xml
+[Mon Oct 19 12:07:34 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://scripting-updates.derrichter.de/updates/browserupproxy/plugin.xml
+[Mon Oct 19 12:07:34 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://scripting-updates.derrichter.de/updates/selenium/plugin.xml
+[Mon Oct 19 12:07:34 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://scripting-updates.derrichter.de/updates/chromedriver/plugin.xml
+[Mon Oct 19 12:07:35 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://scripting-updates.derrichter.de/updates/geckodriver/plugin.xml
+[Mon Oct 19 12:07:35 CEST 2026][INFO][UpdateService][de.willuhn.jameica.services.UpdateService.findUpdateStates] checking repository https://www.open4me.de/hibiscus/
+[Mon Oct 19 12:07:35 CEST 2026][INFO][UpdateService][de.willuhn.jameica.update.Repository.<init>] open repository https://www.open4me.de/hibiscus/
+[Mon Oct 19 12:07:35 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.open4me.de/hibiscus/repository.xml
+[Mon Oct 19 12:07:35 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.open4me.de/hibiscus/open4me.de.2024.crt
+[Mon Oct 19 12:07:35 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.open4me.de/hibiscus/hibiscus.depotviewer/plugin.xml
+[Mon Oct 19 12:07:35 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.open4me.de/hibiscus/hibiscus.ly.PSD2/plugin.xml
+[Mon Oct 19 12:07:35 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.open4me.de/hibiscus/hibiscus.ly.reports/plugin.xml
+[Mon Oct 19 12:07:35 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.open4me.de/hibiscus/open4me.de.2024.crt
+[Mon Oct 19 12:07:35 CEST 2026][INFO][UpdateService][de.willuhn.jameica.transport.HttpTransport.get] downloading https://www.open4me.de/hibiscus/hibiscus.duplikate/plugin.xml
+[Mon Oct 19 12:07:35 CEST 2026][INFO][UpdateService][de.willuhn.jameica.services.UpdateService$Worker.run] save check date: Mon Oct 19 12:07:31 CEST 2026
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.synchronize.AbstractSynchronizeBackend.execute] starting FinTS/HBCI synchronization
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.synchronize.AbstractSynchronizeBackend$Worker.<init>] accounts to synchronize: 1, jobs: 1
+[Mon Oct 19 12:08:06 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.gui.GUI$7.run] start background task: bg-task:Worker
+[Mon Oct 19 12:08:06 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.synchronize.AbstractSynchronizeBackend$Worker.updateStatus] updating synchronization status to: RUNNING
+[Mon Oct 19 12:08:06 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.gui.internal.parts.BackgroundTaskMonitor.check] creating progress monitor for GUI
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.gui.internal.parts.BackgroundTaskMonitor$2.run] activating progress monitor
+[Mon Oct 19 12:08:06 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.synchronize.AbstractSynchronizeBackend$Worker.run] BEGIN synchronization of account 1/1
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.PassportRegistry.init] searching for available passports
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.PassportRegistry.init]   Chip-Card Reader [de.willuhn.jameica.hbci.passports.ddv.server.PassportImpl]
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.PassportRegistry.init]   PIN/TAN [de.willuhn.jameica.hbci.passports.pintan.server.PassportImpl]
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.PassportRegistry.init]   Key-File [de.willuhn.jameica.hbci.passports.rdh.server.PassportImpl]
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.passports.pintan.server.PassportHandleImpl.open] open pin/tan passport
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.passports.pintan.PinTanConfigFactory.findByKonto] searching config for konto 1706105670, blz: 84050000
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.passports.pintan.PinTanConfigFactory.findByKonto] found config via account. url: banking-th5.s-fints-pt-th.de/fints30
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.passports.pintan.server.PassportHandleImpl.open] [PIN/TAN] url         : banking-th5.s-fints-pt-th.de/fints30
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.passports.pintan.server.PassportHandleImpl.open] [PIN/TAN] blz         : 84050000
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.passports.pintan.server.PassportHandleImpl.open] [PIN/TAN] filter      : Base64
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.passports.pintan.server.PassportHandleImpl.open] [PIN/TAN] HBCI version: 300
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.passports.pintan.server.PassportHandleImpl.open] [PIN/TAN] using stored tan sec mech: <ask-user>
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.HBCICallbackSWT.status] fetching institute data
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.HBCICallbackSWT.log] Aktualisiere Bankparameter (BPD)
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.passports.pintan.server.PassportHandleImpl.callback] having exactly one TAN media name (provided by institute) - automatically using this: Alle Geräte
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.HBCICallbackSWT.status] creating hbci message DialogInitAnon
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.HBCICallbackSWT.log] creating a connection to https://banking-th5.s-fints-pt-th.de:443/fints30 and checking the certificate
+[Mon Oct 19 12:08:06 CEST 2026][INFO][main][de.willuhn.jameica.hbci.HBCICallbackSWT.status] sending hbci message
+[Mon Oct 19 12:08:07 CEST 2026][INFO][main][de.willuhn.jameica.hbci.HBCICallbackSWT.status] waiting for response message
+[Mon Oct 19 12:08:07 CEST 2026][INFO][main][de.willuhn.jameica.hbci.HBCICallbackSWT.log] waiting for response message
+[Mon Oct 19 12:08:07 CEST 2026][INFO][main][de.willuhn.jameica.hbci.HBCICallbackSWT.status] verifying signature of response message
+[Mon Oct 19 12:08:07 CEST 2026][INFO][main][de.willuhn.jameica.hbci.HBCICallbackSWT.status] institute data received - new version is 20
+[Mon Oct 19 12:08:07 CEST 2026][INFO][main][de.willuhn.jameica.hbci.server.BPDUtil.updateCache] BPD cache update state [expired: true, new version: false]
+[Mon Oct 19 12:08:07 CEST 2026][INFO][main][de.willuhn.jameica.hbci.server.BPDUtil.updateCache] updating BPD cache
+[Mon Oct 19 12:08:08 CEST 2026][INFO][main][de.willuhn.jameica.hbci.server.BPDUtil.updateCache] customer 1: updated BPD- inserts: 0, updates: 0, deletions: 0
+[Mon Oct 19 12:08:08 CEST 2026][INFO][main][de.willuhn.jameica.hbci.server.BPDUtil.updateCache] customer 2: updated BPD- inserts: 0, updates: 0, deletions: 0
+[Mon Oct 19 12:08:08 CEST 2026][INFO][main][de.willuhn.jameica.hbci.HBCICallbackSWT.status] creating hbci message DialogEndAnon
+[Mon Oct 19 12:08:08 CEST 2026][INFO][main][de.willuhn.jameica.hbci.HBCICallbackSWT.status] sending hbci message
+[Mon Oct 19 12:08:08 CEST 2026][INFO][main][de.willuhn.jameica.hbci.HBCICallbackSWT.status] waiting for response message
+[Mon Oct 19 12:08:08 CEST 2026][INFO][main][de.willuhn.jameica.hbci.HBCICallbackSWT.log] waiting for response message
+[Mon Oct 19 12:08:08 CEST 2026][INFO][main][de.willuhn.jameica.hbci.HBCICallbackSWT.status] verifying signature of response message
+[Mon Oct 19 12:08:08 CEST 2026][INFO][main][de.willuhn.jameica.hbci.HBCICallbackSWT.status] dialog finished
+[Mon Oct 19 12:08:08 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.synchronize.hbci.HBCISynchronizeBackend$HBCIJobGroup.sync] processing jobs
+[Mon Oct 19 12:08:08 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.HBCIUmsatzJob.<init>] startdate: 08.09.2026 00:00
+[Mon Oct 19 12:08:08 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.synchronize.hbci.HBCISynchronizeBackend$HBCIJobGroup.executeJobs] adding job SaldoReq to queue
+[Mon Oct 19 12:08:08 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.synchronize.hbci.HBCISynchronizeBackend$HBCIJobGroup.executeJobs] adding job KUmsAllCamt to queue
+[Mon Oct 19 12:08:08 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.synchronize.hbci.HBCISynchronizeBackend$HBCIJobGroup.executeJobs] executing jobs
+[Mon Oct 19 12:08:08 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.log] initializing dialog
+[Mon Oct 19 12:08:08 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] initializing dialog
+[Mon Oct 19 12:08:08 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.passports.pintan.server.PassportHandleImpl.callback] having exactly one TAN media name (provided by institute) - automatically using this: Alle Geräte
+[Mon Oct 19 12:08:08 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] creating hbci message DialogInit
+[Mon Oct 19 12:08:08 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] signing hbci message
+[Mon Oct 19 12:08:15 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] encrypting hbci message
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.log] creating a connection to https://banking-th5.s-fints-pt-th.de:443/fints30 and checking the certificate
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] sending hbci message
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] waiting for response message
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.log] waiting for response message
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] decrypting response message
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] verifying signature of response message
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.log] Benutzerparameter (UPD) aktualisiert [Bisherige Version: 0, neue Version: 0]
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] received user data - new version is 0
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.BPDUtil.updateCache] UPD cache update state [expired: true, new version: false]
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.BPDUtil.updateCache] updating UPD cache
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.BPDUtil.updateCache] customer 1: updated UPD- inserts: 0, updates: 4, deletions: 0
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.BPDUtil.updateCache] customer 2: updated UPD- inserts: 0, updates: 4, deletions: 0
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.BPDUtil.expireCache] expire BPD cache
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.BPDUtil.updateCache] BPD cache update state [expired: true, new version: false]
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.BPDUtil.updateCache] updating BPD cache
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.BPDUtil.updateCache] customer 1: updated BPD- inserts: 0, updates: 0, deletions: 0
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.BPDUtil.updateCache] customer 2: updated BPD- inserts: 0, updates: 0, deletions: 0
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] dialog initialized - dialogid is 645263176723=268796904534CK2O=
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.log] processing jobs
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.passports.pintan.server.PassportHandleImpl.callback] having exactly one TAN media name (provided by institute) - automatically using this: Alle Geräte
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.passports.pintan.server.PassportHandleImpl.callback] having exactly one TAN media name (provided by institute) - automatically using this: Alle Geräte
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] creating jobdata for job Saldo5
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] creating jobdata for job TAN2Step7
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] creating hbci message CustomMsg
+[Mon Oct 19 12:08:16 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] signing hbci message
+[Mon Oct 19 12:08:17 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] encrypting hbci message
+[Mon Oct 19 12:08:17 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] sending hbci message
+[Mon Oct 19 12:08:17 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] waiting for response message
+[Mon Oct 19 12:08:17 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.log] waiting for response message
+[Mon Oct 19 12:08:17 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] decrypting response message
+[Mon Oct 19 12:08:17 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] verifying signature of response message
+[Mon Oct 19 12:08:17 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] received jobdata for job Saldo5
+[Mon Oct 19 12:08:17 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] received jobdata for job TAN2Step7
+[Mon Oct 19 12:08:17 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] creating jobdata for job KUmsZeitCamt1
+[Mon Oct 19 12:08:17 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] creating jobdata for job TAN2Step7
+[Mon Oct 19 12:08:17 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] creating hbci message CustomMsg
+[Mon Oct 19 12:08:17 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] signing hbci message
+[Mon Oct 19 12:08:17 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] encrypting hbci message
+[Mon Oct 19 12:08:17 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] sending hbci message
+[Mon Oct 19 12:08:17 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] waiting for response message
+[Mon Oct 19 12:08:17 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.log] waiting for response message
+[Mon Oct 19 12:08:19 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] decrypting response message
+[Mon Oct 19 12:08:19 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] verifying signature of response message
+[Mon Oct 19 12:08:20 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] received jobdata for job KUmsZeitCamt1
+[Mon Oct 19 12:08:20 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] received jobdata for job TAN2Step7
+[Mon Oct 19 12:08:20 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.log] processing dialog end
+[Mon Oct 19 12:08:20 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] ending dialog
+[Mon Oct 19 12:08:20 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] creating hbci message DialogEnd
+[Mon Oct 19 12:08:20 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] signing hbci message
+[Mon Oct 19 12:08:20 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] encrypting hbci message
+[Mon Oct 19 12:08:20 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] sending hbci message
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] waiting for response message
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.log] waiting for response message
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] decrypting response message
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] verifying signature of response message
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.HBCICallbackSWT.status] dialog finished
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.synchronize.hbci.HBCISynchronizeBackend$HBCIJobGroup.executeJobs] executing check for job SaldoReq
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.AbstractHBCIJob.handleResult] execution state: tan needed: false, tan-cancel: false, executed: true, success status: true, error status: false
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.AbstractHBCIJob.getErrorText] global status: 
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.AbstractHBCIJob.getErrorText] job status: 
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.AbstractHBCIJob.getErrorText] retval[0]: 0020 - Der Auftrag wurde ausgeführt.
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.AbstractHBCIJob.handleResult] mark job executed [executed: true, status: OK]
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.HBCISaldoJob.markExecuted] saldo fetched successfully
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.synchronize.hbci.HBCISynchronizeBackend$HBCIJobGroup.executeJobs] executing check for job KUmsAllCamt
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.AbstractHBCIJob.handleResult] execution state: tan needed: false, tan-cancel: false, executed: true, success status: true, error status: false
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.AbstractHBCIJob.getErrorText] global status: 
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.AbstractHBCIJob.getErrorText] job status: 
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.AbstractHBCIJob.getErrorText] retval[0]: 0020 - Der Auftrag wurde ausgeführt.
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.AbstractHBCIJob.getErrorText] retval[1]: 0020 - Gebuchte Umsätze und Vormerkungen wurden übermittelt.
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.AbstractHBCIJob.handleResult] mark job executed [executed: true, status: OK]
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.HBCIUmsatzJob.getMergeWindow] merge window: Tue Sep 08 00:00:00 CEST 2026 - now (based on fetched booked entries)
+[Mon Oct 19 12:08:21 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.HBCIUmsatzJob.markExecuted] applying booked entries
+[Mon Oct 19 12:08:21 CEST 2026][INFO][pool-4-thread-1][de.willuhn.jameica.hbci.messaging.MarkOverdueMessageConsumer.updateAll] update all unread counters
+[Mon Oct 19 12:08:22 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.HBCIUmsatzJob.markExecuted] done. new entries: 130, skipped entries (already in database): 1
+[Mon Oct 19 12:08:22 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.HBCIUmsatzJob.markExecuted] applying not-booked (vorgemerkte) entries
+[Mon Oct 19 12:08:22 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.HBCIUmsatzJob.markExecuted] clean obsolete notbooked entries
+[Mon Oct 19 12:08:22 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.HBCIUmsatzJob.markExecuted] removed entries: 4
+[Mon Oct 19 12:08:22 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.HBCIUmsatzJob.markExecuted] done. new entries: 9, skipped entries (already in database): 0
+[Mon Oct 19 12:08:22 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.server.hbci.HBCIUmsatzJob.markExecuted] umsatz list fetched successfully
+[Mon Oct 19 12:08:22 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.synchronize.hbci.HBCISynchronizeBackend$HBCIJobGroup.close] closing resources
+[Mon Oct 19 12:08:22 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.passports.pintan.server.PassportHandleImpl.close] closing pin/tan passport
+[Mon Oct 19 12:08:22 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.passports.pintan.server.PassportHandleImpl.close] pin/tan passport closed
+[Mon Oct 19 12:08:22 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.synchronize.AbstractSynchronizeBackend$Worker.run] END synchronization of account 1/1
+[Mon Oct 19 12:08:22 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.synchronize.AbstractSynchronizeBackend$Worker.updateStatus] updating synchronization status to: DONE
+[Mon Oct 19 12:08:22 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.synchronize.AbstractSynchronizeBackend$Worker.run] stopping synchronization
+[Mon Oct 19 12:08:22 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.hbci.synchronize.AbstractSynchronizeBackend$Worker.run] finished
+[Mon Oct 19 12:08:22 CEST 2026][INFO][bg-task:Worker][de.willuhn.jameica.gui.GUI$7.run] finished background task: bg-task:Worker
+[Mon Oct 19 12:08:25 CEST 2026][INFO][main][de.willuhn.jameica.hbci.messaging.NeueUmsaetze.store] store umsatz unread count
+[Mon Oct 19 12:08:25 CEST 2026][INFO][main][de.willuhn.jameica.hbci.messaging.NeueUmsaetze.store] umsatz unread count: 113
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.GUI.quit] shutting down GUI
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.GUI$3.widgetDisposed] saving window maximized flag: false
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.GUI$3.widgetDisposed] saving window size: 1358x718
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.GUI$3.widgetDisposed] saving window location: 0x25
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.hbci.messaging.NeueUmsaetze.handleMessage] clear unread mark for bookings
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.hbci.messaging.NeueUmsaetze.store] store umsatz unread count
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.hbci.messaging.NeueUmsaetze.store] umsatz unread count: 0
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.TransportService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.AttachmentService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.ArchiveService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.Init5 ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.SystrayService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.UpdateService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.services.UpdateService.shutdown] stopping updater thread
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.services.UpdateService.shutdown] stopping timer task
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.RepositoryService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.ScriptingService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.ReminderService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.SearchService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.PluginService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.plugin.PluginLoader.shutDown] shutting down plugins
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.PluginServiceService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.system.ServiceFactory.shutDown] shutting down local services
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.system.ServiceFactory.shutDown]   de.willuhn.jameica.hbci.HBCI.addressbook
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.system.ServiceFactory.shutDown]   de.willuhn.jameica.hbci.HBCI.database
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.datasource.db.DBServiceImpl.stop] stopping db service
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.datasource.db.DBServiceImpl.closeConnection] commit connection
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.datasource.db.DBServiceImpl.closeConnection] closing connection
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.datasource.db.DBServiceImpl.closeConnection] connection closed
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.datasource.db.DBServiceImpl.stop] db service stopped [1 connection(s) closed]
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.SSLSocketFactoryService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.DeployService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.BeanService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.PluginSourceService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.ClassService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.RegistryService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.SSLService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.HostnameVerifierService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.AuthenticateService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.ProxyService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.BackupService ...
+[Mon Oct 19 12:09:12 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  creating backup /home/stevie/.jameica/jameica-backup-20261019__12_09_12.zip ...
+[Mon Oct 19 12:09:14 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  zip file created successfully ...
+[Mon Oct 19 12:09:15 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  delete old backup /home/stevie/.jameica/jameica-backup-20260422__20_48_49.zip ...
+[Mon Oct 19 12:09:15 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  backup created ...
+[Mon Oct 19 12:09:15 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.MessagingService ...
+[Mon Oct 19 12:09:15 CEST 2026][INFO][main][de.willuhn.jameica.messaging.MessagingFactory.close] shutting down messaging factory
+[Mon Oct 19 12:09:15 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.SysinfoService ...
+[Mon Oct 19 12:09:15 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.SysPropertyService ...
+[Mon Oct 19 12:09:15 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.LogService ...
+[Mon Oct 19 12:09:15 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.LockService ...
+[Mon Oct 19 12:09:15 CEST 2026][INFO][main][de.willuhn.jameica.gui.SplashScreen$3.run]  shutting down service de.willuhn.jameica.services.SecurityManagerService ...
+[Mon Oct 19 12:09:15 CEST 2026][INFO][main][de.willuhn.jameica.system.Application.shutDown] shutdown complete
+[Mon Oct 19 12:09:15 CEST 2026][INFO][main][de.willuhn.jameica.system.Application.shutDown] --------------------------------------------------
+
+libva info: VA-API version 1.22.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_22
+libva info: va_openDriver() returns 0
